@@ -1,0 +1,9 @@
+<resources>
+    <declare-styleable name="LeafColorView">
+        <attr name="gradientWidth" format="dimension" />
+        <attr name="markerWidth" format="dimension" />
+        <attr name="markerHeight" format="dimension" />
+        <attr name="markerThickness" format="float" />
+        <attr name="initMark" format="float" />
+    </declare-styleable>
+</resources>

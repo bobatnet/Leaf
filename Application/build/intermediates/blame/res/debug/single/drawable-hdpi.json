@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/bob/Dropbox/mysources/Leaf/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/home/bob/Dropbox/mysources/Leaf/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/home/bob/Dropbox/mysources/Leaf/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_device_access_bluetooth_searching.png",
+        "source": "/home/bob/Dropbox/mysources/Leaf/Application/src/main/res/drawable-hdpi/ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "/home/bob/Dropbox/mysources/Leaf/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/bob/Dropbox/mysources/Leaf/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bob/Dropbox/mysources/Leaf/Application/build/intermediates/res/merged/debug/drawable-hdpi/blank_farm_web.png",
+        "source": "/home/bob/Dropbox/mysources/Leaf/Application/src/main/res/drawable-hdpi/blank_farm_web.png"
+    }
+]

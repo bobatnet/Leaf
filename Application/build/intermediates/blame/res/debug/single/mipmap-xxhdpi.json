@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bob/Dropbox/mysources/Leaf/Application/build/intermediates/res/merged/debug/mipmap-xxhdpi/blank_farm.png",
+        "source": "/home/bob/Dropbox/mysources/Leaf/Application/src/main/res/mipmap-xxhdpi/blank_farm.png"
+    },
+    {
+        "merged": "/home/bob/Dropbox/mysources/Leaf/Application/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/bob/Dropbox/mysources/Leaf/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

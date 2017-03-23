@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bob/Dropbox/mysources/Leaf/Application/build/intermediates/res/merged/debug/menu/bluetooth_chat.xml",
+        "source": "/home/bob/Dropbox/mysources/Leaf/Application/src/main/res/menu/bluetooth_chat.xml"
+    },
+    {
+        "merged": "/home/bob/Dropbox/mysources/Leaf/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/bob/Dropbox/mysources/Leaf/Application/src/main/res/menu/main.xml"
+    }
+]

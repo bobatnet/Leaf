@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:srcCompat="@android:drawable/ic_menu_gallery"
+            android:id="@+id/imageView"
+            android:contentDescription="@string/blank_image" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@android:drawable/ic_menu_add"
+            android:id="@+id/captureImageButton"
+            android:layout_alignParentEnd="true"
+            android:layout_alignBottom="@id/imageView"
+            android:layout_alignParentRight="true"
+            android:contentDescription="@string/capture_image" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:text="@string/textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textDateTime" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="@string/farm_name_edit"
+        android:ems="10"
+        android:id="@+id/editName"
+        style="@android:style/Widget.Holo.Light.EditText" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:paddingTop="30dp"
+        android:text="@string/notes"
+        android:ems="10"
+        android:id="@+id/editNotes"
+        style="@android:style/Widget.Holo.Light.EditText" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:text="@string/save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/savebutton"
+            android:textAlignment="center"
+            android:layout_centerHorizontal="true"/>
+    </RelativeLayout>
+</LinearLayout>
